@@ -7,4 +7,4 @@
 ### Documentacion 
 
 # DADME TRABAJO 
-[linkedin](/guides/content/editing-an-existing-page)
+ver mi perfil en [linkedin](https://www.linkedin.com/in/daniel-orjuela/)
