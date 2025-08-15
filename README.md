@@ -1,2 +1,11 @@
 # TecnicalTest.Insttantt
-Prueba Tecnica
+
+### Requerimientos 
+
+### Inicio Rapido 
+
+### Documentacion 
+
+### DADME TRABAJO 
+[linkedin](/guides/content/editing-an-existing-page)
+ 
