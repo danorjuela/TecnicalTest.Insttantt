@@ -6,6 +6,5 @@
 
 ### Documentacion 
 
-### DADME TRABAJO 
+# DADME TRABAJO 
 [linkedin](/guides/content/editing-an-existing-page)
- 
