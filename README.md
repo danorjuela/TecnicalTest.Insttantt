@@ -1,11 +1,11 @@
 # TecnicalTest.Insttantt
 
-Api para gestion y ejecucion configurable de flujos
+Api para gestion y ejecucion configurable de flujos para crracion y solicitud de informacion
 
 ### Requerimientos  
  - ⬜ Inclusion de Utils.Auth
  - ⬜ Inclusion de Utils.Response 
- - ⬜ Creacion de documentos de secuencia, paso y flujos
+ - ⬜ Creacion de documentos de campos, paso y flujos
  - ⬜ Planteamiento de controladores
  - ⬜ Implementacion Core Services 
  - ⬜ Pruebas Core Services
