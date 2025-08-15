@@ -18,6 +18,9 @@ Api para gestion y ejecucion configurable de flujos para crracion y solicitud de
 docker-compose up -d
 ```
 ### Documentacion 
-
+```bash
+cd docs
+npm run docs:dev
+```
 # DADME TRABAJO 
 ver mi perfil en [linkedin](https://www.linkedin.com/in/daniel-orjuela/)
