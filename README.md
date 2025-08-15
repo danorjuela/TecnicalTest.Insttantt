@@ -23,4 +23,4 @@ cd docs
 npm run docs:dev
 ```
 # DADME TRABAJO 
-ver mi perfil en [linkedin](https://www.linkedin.com/in/daniel-orjuela/)
+Ver mi perfil en [linkedin](https://www.linkedin.com/in/daniel-orjuela/)
